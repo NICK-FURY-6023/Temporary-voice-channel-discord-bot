@@ -1,0 +1,18 @@
+{
+  "name": "temporary-voice-dashboard",
+  "version": "1.0.0",
+  "main": "Bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "npm": "^10.2.4",
+    "os": "^0.1.2",
+    "os-utils": "^0.0.14",
+    "pro.db": "^3.0.8",
+    "quick.db": "^9.1.7",
+    "systeminformation": "^5.21.17"
+  }
+}
