@@ -2,6 +2,7 @@
   "name": "temporary-voice-dashboard",
   "version": "1.0.0",
   "main": "Bot.js",
+  "license": "MIT",
   "dependencies": {
     "chalk": "4",
     "discord.js": "^14.14.1",
