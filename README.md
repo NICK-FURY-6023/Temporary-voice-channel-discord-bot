@@ -10,7 +10,7 @@
 
 
 
-https://github.com/NICK-FURY-6023/Chat-GPT-4-Bot.git
+https://github.com/NICK-FURY-6023/Temporary-voice-channel-discord-bot.git
 ```
 
 2. Install all the dependencies
