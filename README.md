@@ -25,7 +25,7 @@ npm install
 yarn
 ```
 
-3. fill your bot token or openai_api
+3. fill your bot token or Bot.json channel ID 
 
 5. Start your bot
 
