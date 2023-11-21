@@ -32,7 +32,7 @@ client.on('messageCreate', async Message => {
             .setDescription(`Click on the Button to Control your Temporary Channel`)
             .setTimestamp()
             .setFooter({ text: Message.guild.name, iconURL: Message.guild.iconURL() })
-            .setImage('https://cdn.discordapp.com/attachments/1161618040065105980/1176253621030105168/54e453de0188ff13b8609849f414bb2c.jpg?ex=656e328c&is=655bbd8c&hm=3170165c3182328622356a7e1d8e188c3036c20f413bea75e3f205be6105fde2&');
+
         const Menu = new StringSelectMenuBuilder()
             .setCustomId('Menu')
             .setMaxValues(1)
